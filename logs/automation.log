@@ -1,0 +1,51 @@
+18:44:41.093 [main] INFO  TestCases.TC_003_Hotels - clicking on the apply btn
+18:44:44.354 [main] INFO  TestCases.TC_003_Hotels - clicking on the search btn
+18:44:55.751 [main] INFO  TestCases.TC_003_Hotels - clickig on the arrow btn
+18:44:58.941 [main] INFO  TestCases.TC_003_Hotels - selecting the price ltoh option
+18:45:02.214 [main] INFO  TestCases.TC_003_Hotels - selecting the suv 
+18:45:07.582 [main] INFO  TestCases.TC_003_Hotels - *****Starting of the TC_002_Giftcards ******
+18:45:07.582 [main] INFO  TestCases.TC_003_Hotels - clicking on dropdwn menu
+18:45:15.952 [main] INFO  TestCases.TC_003_Hotels - selecting gift card 
+18:45:24.205 [main] INFO  TestCases.TC_003_Hotels - clicking on the desired giftcard
+18:45:29.434 [main] INFO  TestCases.TC_003_Hotels - writing name on namebox
+18:45:32.718 [main] INFO  TestCases.TC_003_Hotels - writing name on sendername box
+18:45:35.927 [main] INFO  TestCases.TC_003_Hotels - mobile no input
+18:45:39.142 [main] INFO  TestCases.TC_003_Hotels - sender mobile no input
+18:45:39.335 [main] INFO  TestCases.TC_003_Hotels - email input
+18:45:42.651 [main] INFO  TestCases.TC_003_Hotels - sender email input
+18:45:47.881 [main] INFO  TestCases.TC_003_Hotels - buy now option click
+18:45:51.225 [main] INFO  TestCases.TC_003_Hotels - to print error msg
+18:45:51.324 [main] INFO  TestCases.TC_003_Hotels - *****Starting of the TC_003_Hotels ******
+18:45:54.330 [main] INFO  TestCases.TC_003_Hotels - clicking on hotel
+18:45:56.710 [main] INFO  TestCases.TC_003_Hotels - selecting room option
+18:58:49.493 [main] INFO  TestCases.TC_003_Hotels - ***** Starting of the TC_001_Displaylowestcabtest ******
+18:58:54.513 [main] INFO  TestCases.TC_003_Hotels - click in the city input box
+18:58:54.808 [main] INFO  TestCases.TC_003_Hotels - inputing the city
+18:58:58.353 [main] INFO  TestCases.TC_003_Hotels - setting delhi as input city
+18:59:01.565 [main] INFO  TestCases.TC_003_Hotels - putting manali as destination 
+18:59:04.732 [main] INFO  TestCases.TC_003_Hotels - clicking on the manali
+18:59:07.990 [main] INFO  TestCases.TC_003_Hotels - clicking on the calender option
+18:59:08.226 [main] INFO  TestCases.TC_003_Hotels - date selecting
+18:59:14.862 [main] INFO  TestCases.TC_003_Hotels - clicking on the time input box
+18:59:18.308 [main] INFO  TestCases.TC_003_Hotels - selecting the hr 
+18:59:21.643 [main] INFO  TestCases.TC_003_Hotels - selecting the min 
+18:59:24.919 [main] INFO  TestCases.TC_003_Hotels - clicking on the apply btn
+18:59:28.122 [main] INFO  TestCases.TC_003_Hotels - clicking on the search btn
+18:59:51.962 [main] INFO  TestCases.TC_003_Hotels - clickig on the arrow btn
+18:59:55.185 [main] INFO  TestCases.TC_003_Hotels - selecting the price ltoh option
+18:59:58.427 [main] INFO  TestCases.TC_003_Hotels - selecting the suv 
+19:00:03.895 [main] INFO  TestCases.TC_003_Hotels - *****Starting of the TC_002_Giftcards ******
+19:00:03.896 [main] INFO  TestCases.TC_003_Hotels - clicking on dropdwn menu
+19:00:16.893 [main] INFO  TestCases.TC_003_Hotels - selecting gift card 
+19:00:25.187 [main] INFO  TestCases.TC_003_Hotels - clicking on the desired giftcard
+19:00:30.418 [main] INFO  TestCases.TC_003_Hotels - writing name on namebox
+19:00:33.666 [main] INFO  TestCases.TC_003_Hotels - writing name on sendername box
+19:00:36.807 [main] INFO  TestCases.TC_003_Hotels - mobile no input
+19:00:40.046 [main] INFO  TestCases.TC_003_Hotels - sender mobile no input
+19:00:40.226 [main] INFO  TestCases.TC_003_Hotels - email input
+19:00:43.510 [main] INFO  TestCases.TC_003_Hotels - sender email input
+19:00:48.822 [main] INFO  TestCases.TC_003_Hotels - buy now option click
+19:00:52.159 [main] INFO  TestCases.TC_003_Hotels - to print error msg
+19:00:52.269 [main] INFO  TestCases.TC_003_Hotels - *****Starting of the TC_003_Hotels ******
+19:00:55.287 [main] INFO  TestCases.TC_003_Hotels - clicking on hotel
+19:00:57.755 [main] INFO  TestCases.TC_003_Hotels - selecting room option

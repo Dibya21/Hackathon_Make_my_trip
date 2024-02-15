@@ -1,0 +1,64 @@
+16:37:27.034 [main] INFO  TestCases.TC_003_Hotels - clicking on the time input box
+16:37:30.526 [main] INFO  TestCases.TC_003_Hotels - selecting the hr 
+16:37:33.782 [main] INFO  TestCases.TC_003_Hotels - selecting the min 
+16:37:37.070 [main] INFO  TestCases.TC_003_Hotels - clicking on the apply btn
+16:37:40.371 [main] INFO  TestCases.TC_003_Hotels - clicking on the search btn
+16:37:47.195 [main] INFO  TestCases.TC_003_Hotels - clickig on the arrow btn
+16:37:51.853 [main] INFO  TestCases.TC_003_Hotels - selecting the price ltoh option
+16:37:55.111 [main] INFO  TestCases.TC_003_Hotels - selecting the suv 
+16:50:10.350 [main] INFO  TestCases.TC_003_Hotels - ***** Starting of the TC_001_Displaylowestcabtest ******
+16:50:15.381 [main] INFO  TestCases.TC_003_Hotels - click in the city input box
+16:50:15.697 [main] INFO  TestCases.TC_003_Hotels - inputing the city
+16:50:19.169 [main] INFO  TestCases.TC_003_Hotels - setting delhi as input city
+16:50:22.400 [main] INFO  TestCases.TC_003_Hotels - putting manali as destination 
+16:50:25.560 [main] INFO  TestCases.TC_003_Hotels - clicking on the manali
+16:50:28.812 [main] INFO  TestCases.TC_003_Hotels - clicking on the calender option
+16:50:29.017 [main] INFO  TestCases.TC_003_Hotels - date selecting
+16:50:35.555 [main] INFO  TestCases.TC_003_Hotels - clicking on the time input box
+16:50:38.861 [main] INFO  TestCases.TC_003_Hotels - selecting the hr 
+16:50:42.097 [main] INFO  TestCases.TC_003_Hotels - selecting the min 
+16:50:45.357 [main] INFO  TestCases.TC_003_Hotels - clicking on the apply btn
+16:50:48.578 [main] INFO  TestCases.TC_003_Hotels - clicking on the search btn
+16:50:55.010 [main] INFO  TestCases.TC_003_Hotels - clickig on the arrow btn
+16:50:58.173 [main] INFO  TestCases.TC_003_Hotels - selecting the price ltoh option
+16:51:01.373 [main] INFO  TestCases.TC_003_Hotels - selecting the suv 
+00:49:25.274 [main] INFO  TestCases.TC_003_Hotels - ***** Starting of the TC_001_Displaylowestcabtest ******
+00:49:30.308 [main] INFO  TestCases.TC_003_Hotels - click in the city input box
+00:49:30.790 [main] INFO  TestCases.TC_003_Hotels - inputing the city
+00:49:34.346 [main] INFO  TestCases.TC_003_Hotels - setting delhi as input city
+00:49:37.782 [main] INFO  TestCases.TC_003_Hotels - putting manali as destination 
+00:49:41.060 [main] INFO  TestCases.TC_003_Hotels - clicking on the manali
+00:49:44.675 [main] INFO  TestCases.TC_003_Hotels - clicking on the calender option
+00:49:45.464 [main] INFO  TestCases.TC_003_Hotels - date selecting
+00:49:52.503 [main] INFO  TestCases.TC_003_Hotels - clicking on the time input box
+00:49:56.013 [main] INFO  TestCases.TC_003_Hotels - selecting the hr 
+00:49:59.407 [main] INFO  TestCases.TC_003_Hotels - selecting the min 
+00:50:02.785 [main] INFO  TestCases.TC_003_Hotels - clicking on the apply btn
+00:50:06.262 [main] INFO  TestCases.TC_003_Hotels - clicking on the search btn
+00:50:13.502 [main] INFO  TestCases.TC_003_Hotels - clickig on the arrow btn
+00:50:16.824 [main] INFO  TestCases.TC_003_Hotels - selecting the price ltoh option
+00:50:20.264 [main] INFO  TestCases.TC_003_Hotels - selecting the suv 
+00:50:25.857 [main] INFO  TestCases.TC_003_Hotels - *****Starting of the TC_002_Giftcards ******
+00:50:25.858 [main] INFO  TestCases.TC_003_Hotels - clicking on dropdwn menu
+00:50:33.697 [main] INFO  TestCases.TC_003_Hotels - selecting gift card 
+00:50:42.426 [main] INFO  TestCases.TC_003_Hotels - clicking on the desired giftcard
+00:50:48.007 [main] INFO  TestCases.TC_003_Hotels - writing name on namebox
+00:50:51.720 [main] INFO  TestCases.TC_003_Hotels - writing name on sendername box
+00:50:55.050 [main] INFO  TestCases.TC_003_Hotels - mobile no input
+00:50:58.712 [main] INFO  TestCases.TC_003_Hotels - sender mobile no input
+00:50:59.130 [main] INFO  TestCases.TC_003_Hotels - email input
+00:51:02.869 [main] INFO  TestCases.TC_003_Hotels - sender email input
+00:51:08.313 [main] INFO  TestCases.TC_003_Hotels - buy now option click
+00:51:11.872 [main] INFO  TestCases.TC_003_Hotels - to print error msg
+00:51:12.120 [main] INFO  TestCases.TC_003_Hotels - *****Starting of the TC_003_Hotels ******
+00:51:15.176 [main] INFO  TestCases.TC_003_Hotels - clicking on hotel
+00:51:18.038 [main] INFO  TestCases.TC_003_Hotels - selecting room option
+22:55:29.728 [main] INFO  TestCases.TC_003_Hotels - ***** Starting of the TC_001_Displaylowestcabtest ******
+22:55:34.753 [main] INFO  TestCases.TC_003_Hotels - click in the city input box
+22:55:35.090 [main] INFO  TestCases.TC_003_Hotels - inputing the city
+22:55:38.584 [main] INFO  TestCases.TC_003_Hotels - setting delhi as input city
+22:55:41.856 [main] INFO  TestCases.TC_003_Hotels - putting manali as destination 
+22:55:45.013 [main] INFO  TestCases.TC_003_Hotels - clicking on the manali
+22:55:48.443 [main] INFO  TestCases.TC_003_Hotels - clicking on the calender option
+22:55:48.892 [main] INFO  TestCases.TC_003_Hotels - date selecting
+22:55:55.885 [main] INFO  TestCases.TC_003_Hotels - clicking on the time input box
